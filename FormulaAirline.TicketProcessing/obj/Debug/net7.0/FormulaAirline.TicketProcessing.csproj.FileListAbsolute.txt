@@ -3,3 +3,15 @@ C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.TicketProcess
 C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.AssemblyInfoInputs.cache
 C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.AssemblyInfo.cs
 C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.exe
+C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.deps.json
+C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.runtimeconfig.json
+C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.dll
+C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.pdb
+C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.dll
+C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.TicketProcessing\obj\Debug\net7.0\refint\FormulaAirline.TicketProcessing.dll
+C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.pdb
+C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.genruntimeconfig.cache
+C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.TicketProcessing\obj\Debug\net7.0\ref\FormulaAirline.TicketProcessing.dll
+C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.TicketProcessing\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.csproj.CopyComplete

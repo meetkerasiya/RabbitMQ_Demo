@@ -26,3 +26,8 @@ C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.API\obj\Debug
 C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.API\obj\Debug\net7.0\ref\FormulaAirline.API.dll
 C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.API\bin\Debug\net7.0\RabbitMQ.Client.dll
 C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.API\obj\Debug\net7.0\FormulaAirline.API.csproj.CopyComplete
+C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.API\obj\Debug\net7.0\FormulaAirline.API.MvcApplicationPartsAssemblyInfo.cs
