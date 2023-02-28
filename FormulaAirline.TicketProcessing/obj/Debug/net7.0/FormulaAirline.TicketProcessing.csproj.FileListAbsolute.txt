@@ -1,0 +1,5 @@
+C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.csproj.AssemblyReference.cache
+C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.AssemblyInfoInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.AssemblyInfo.cs
+C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.csproj.CoreCompileInputs.cache
