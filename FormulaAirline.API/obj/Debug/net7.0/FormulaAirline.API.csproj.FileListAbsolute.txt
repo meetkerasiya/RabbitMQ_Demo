@@ -24,3 +24,5 @@ C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.API\obj\Debug
 C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.API\obj\Debug\net7.0\FormulaAirline.API.pdb
 C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.API\obj\Debug\net7.0\FormulaAirline.API.genruntimeconfig.cache
 C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.API\obj\Debug\net7.0\ref\FormulaAirline.API.dll
+C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.API\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\Meet  Kerasiya\source\repos\FormulaAirline\FormulaAirline.API\obj\Debug\net7.0\FormulaAirline.API.csproj.CopyComplete
